@@ -8,21 +8,20 @@ minha história
     <title>Document</title>
 </head>
 <body>
-    <h1>Gabrielle Yasmin</h1>
+    <h1><em>Gabrielle Santos</em></h1>
 
-    <p><em><strong>Bairro Jardim Alvorada</strong></em></p>
-    <p><em><strong>Zona Oeste</strong></em></p>
-    <p><em><strong>Londrina</strong></em></p>
+    <p><em><strong>Birro San Remo</strong></em></p>
+    <P><em><strong>Zona leste</strong></em></P>
+    <p><em><strong> Londrina</strong></em></p>
 
-    <p> Tenho 16 anos, nasci dia 12 de julho de 2007 em Londrina, Brasil.<em><fonte color="red"><strong style="fonte-size":30px> sou baixa e tenho cabelo
-         cacheado</style></fonte></em>
-    em uma casa com meus pais, minha irmã, minhas duas cachorrinhas e minha gata</p>
+    <p>Tenho 16 anos, <i><strong><font color="COR AQUI"><span style="font-size:30px;">nasci dia 12 de julho de 2007 em Londrina, Brasil.</span></font></strong></i>
+         Sou baixa e tenho cabelo cacheado longo. Moro em uma casa com meus pais, minha irmÃ, minhas duas cachorrinhas e minha gata</p>
 
-    <p> Minha cor favotita é <em><fonte color="red"><strong style="fonte-size":30px>roxo</strong></fonte></color></em>, e minha comida favorita é lasanha de berinjela. Meu filme favorito
-    é Crepúsculo e minha série do momento é supernatural.</p>
+    <p>Minha cor favorita é roxo, e minha comida favorita é lasanha de berinjela. Meu filme favorito
+        é crepúsculo e minha série favorita é <i><strong><font color="COR AQUI"><span style="font-size:30px;">Friends</span></font></strong></i>. Tenho uma cicatriz na minha
+         testa e a maioria das pessoas me pergunta a "história" dela.</p>
 
-    <p> Minhas coisas favoritas no mundo todo são meus livros e meu melhor amigo (GUSTAVO). Amo viajar, mas também gosto
-        muito de ficar em casa. Sou intolerante ao glúten, mas amo pizza</p>
-        <img scr "https://images.app.goo.gl/LFYqiUeuXCr4DUbm9"
+     <p>Minhas coisas favoritas no mundo inteiro são: cappuccino, clima frio, livros e meu melhor amigo Gustavo que sempre está ao meu lado
+        em todos os momentos. Sou intolerante ao glúten e posso afirmar que comer pizza sem passar mal é um dos sonhos que eu tenho.</p>
 </body>
 </html>
